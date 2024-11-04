@@ -19,10 +19,13 @@ This repository contains shell scripts and Python programs for various operating
 - **avg.sh**: Calculates the average of a series of numbers.
 - **factorial.sh**: Computes the factorial of a given number.
 
+
+
 ### Scheduling Algorithms
 - **fcfs.py**: Implements First-Come, First-Served scheduling.
 - **sjf.py**: Implements Shortest Job First scheduling (non-preemptive).
 - **srtf.py**: Implements Shortest Remaining Time First scheduling (preemptive).
+- **priority.py**: Implements Priority Scheduling (non-preemptive, online).
 
 ## Usage
 
